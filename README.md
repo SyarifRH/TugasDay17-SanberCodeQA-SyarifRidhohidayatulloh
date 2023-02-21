@@ -8,4 +8,5 @@ Scenario Test Positive REGISTER
 
 - Test Case untuk Memasukkan Data Akun dengan Benar = PASSED
 - Test Case untuk Mendaftar dengan Username yang Sudah Terdaftar = PASSED
-- Test Case untuk Mendaftar dengan Alamat Email yang Tidak Valid = PASSED
+
+Scenario Test Negative REGISTER

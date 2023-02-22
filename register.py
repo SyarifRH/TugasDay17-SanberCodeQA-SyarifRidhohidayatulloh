@@ -18,7 +18,7 @@ class TestRegister(unittest.TestCase):
     # TEST CASE POSITIVE REGISTER
 
     def test_registered_email(self):
-        # Test data register email terdaftar
+        # Test data register email terdaftarr
         driver = self.browser
         driver.get("http://barru.pythonanywhere.com/daftar")
         driver.find_element(By.ID, "signUp").click()

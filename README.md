@@ -2,7 +2,7 @@
 
 Tugas Day 17 Automation Selenium Python
 
-Testing Website : http://barru.pythonanywhere.com/daftar
+Testing Website URL : http://barru.pythonanywhere.com/daftar
 
 Scenario Test Positive REGISTER
 

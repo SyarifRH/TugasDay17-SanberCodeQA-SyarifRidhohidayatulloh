@@ -10,7 +10,7 @@ class TestRegister(unittest.TestCase):
     def setUp(self):
         self.browser = webdriver.Chrome(ChromeDriverManager().install())
 
-        # Rubahlah field isi data variable masing-masing dibawah ini, jika ingin test run lagi!
+        # Rubahlah field isi data variable masing-masing dibawah ini, jika ingin test run lagi
         self.username = "SyarifRidho"
         self.email = "syarifridho@gmail.com"
         self.password = "123425"
